@@ -4,6 +4,8 @@ Welcome to my home! Right here, you could read my blogs and see my public projec
 
 ## Blogs
 
+* [学习资料汇总](blogs/学习资料汇总.md)
+
 * [more...](blogs/blogs.md)
 
 ## Projects
