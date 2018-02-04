@@ -1,17 +1,17 @@
 # Welcome to Gsllchb's home
 
-Welcome to my home! Right here, you could read my blogs and see my public projects. If you have any advice or question about this website or the content in it, please let me know. You could contact me via [*Issues*][issues] or sending email directly. Besides, if you are interested in my public projects, you also could contribute to them. I would appreciate all positive improvement contributed by anyone.
+Welcome to my home! Right here, you could read my blogs and see my public projects. If you have any advice or question about this website or the content in it, please let me know. You could contact me via [*Issues*][issues] or sending email directly. Besides, if you are interested in my public projects, you could also contribute to them. I would appreciate all positive improvements contributed by anyone.
 
 ## Blogs
 
-* more...
+* [more...](blogs/blogs.md)
 
 ## Projects
 
 * [PyLf][pylf-home]:
-A lightweight Python library for simulating Chinese handwriting
+A lightweight *Python* library for simulating Chinese handwriting
 
-* more...
+* [more...](projects/projects.md)
 
 ## Contact
 
