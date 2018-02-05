@@ -11,7 +11,7 @@ Welcome to my home! Right here, you could read my blog and see my public project
 ## Projects
 
 * [PyLf][pylf-home]:
-A lightweight *Python* library for simulating Chinese handwriting
+A lightweight Python library for simulating Chinese handwriting
 
 * [more...](projects/index.md)
 
