@@ -20,4 +20,4 @@ A lightweight Python library for simulating Chinese handwriting
 * Email: gsllchb@gmail.com
 
 [issues]: https://github.com/Gsllchb/gsllchb.github.io/issues
-[pylf-home]: https://gsllchb.github.io/PyLf/
+[pylf-home]: https://github.com/Gsllchb/PyLf
