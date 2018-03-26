@@ -1,4 +1,4 @@
 # Projects
 
-* [PyLf](https://gsllchb.github.io/PyLf/):
+* [PyLf](https://github.com/Gsllchb/PyLf):
 A lightweight Python library for simulating Chinese handwriting
