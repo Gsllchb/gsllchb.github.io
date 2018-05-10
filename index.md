@@ -8,6 +8,8 @@ would appreciate all positive improvements contributed by anyone.
 ## Blog
 * [学习资料汇总](blog/学习资料汇总.md)
 
+* [50道SQL练习题](blog/SQL_50question.md)
+
 * [more...](blog/index.md)
 
 
