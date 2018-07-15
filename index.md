@@ -24,4 +24,4 @@ The examples of PyLf](https://github.com/Gsllchb/PyLf-examples)
 
 
 ## Contact
-* Email: gsllchb@gmail.com
+* Email: [gsllchb@gmail.com](mailto:gsllchb@gmail.com)
