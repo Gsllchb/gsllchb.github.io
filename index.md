@@ -6,20 +6,15 @@ would appreciate all positive improvements contributed by anyone.
 
 
 ## Blog
+* [腾讯互动娱乐、微软亚院IEG、华为优招面经](blog/腾讯互动娱乐、微软亚院IEG、华为优招面经.md)
 * [学习资料汇总](blog/学习资料汇总.md)
-
 * [50道SQL练习题](blog/SQL_50question.md)
-
 * [more...](blog/index.md)
 
 
 ## Projects
-* [PyLf:
-A lightweight Python library for simulating Chinese handwriting](https://github.com/Gsllchb/PyLf)
-
-* [PyLf-examples:
-The examples of PyLf](https://github.com/Gsllchb/PyLf-examples)
-
+* [PyLf: A lightweight Python library for simulating Chinese handwriting](https://github.com/Gsllchb/PyLf)
+* [PyLf-examples: The examples of PyLf](https://github.com/Gsllchb/PyLf-examples)
 * [more...](projects/index.md)
 
 
