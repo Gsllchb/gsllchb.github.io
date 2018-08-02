@@ -6,6 +6,7 @@ would appreciate all positive improvements contributed by anyone.
 
 
 ## Blog
+* [Pitfalls in Python](blog/python_pitfalls.md)
 * [腾讯互动娱乐、微软亚院IEG、华为优招面经](blog/腾讯互动娱乐、微软亚院IEG、华为优招面经.md)
 * [学习资料汇总](blog/学习资料汇总.md)
 * [50道SQL练习题](blog/SQL_50question.md)
