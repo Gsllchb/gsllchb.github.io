@@ -1,5 +1,5 @@
 # Pitfalls in Python
-记录下我在使用Python时踩过的坑。
+Mark the pitfalls I fell into while writing Python.
 
 
 ## #1
