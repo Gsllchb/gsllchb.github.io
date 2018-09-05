@@ -399,7 +399,7 @@ WHERE course_id = 2 AND student_id NOT IN (
 41. 查询两门及其以上不及格课程的同学的学号，姓名及其平均成绩
 ```SQL
 SELECT t.student_id, student.name, t.avg_score FROM(
-    SELECT student_id, AVG(score) as avg_score FROM grade 
+    SELECT student_id, AVG(score) AS avg_score FROM grade 
     WHERE score < 60 
     GROUP BY student_id 
     HAVING COUNT(score) >= 2
@@ -411,14 +411,11 @@ LEFT JOIN student ON t.student_id = student.id;
 ```SQL
 SELECT * FROM student 
 WHERE student.id NOT IN (
-    SELECT t2.id FROM (
-        SELECT student.id, t1.course_id FROM student, (
-            SELECT grade.course_id FROM grade
-            WHERE grade.student_id = 1
-        ) AS t1
-    ) AS t2
-    LEFT JOIN grade ON t2.id = grade.student_id AND t2.course_id = grade.course_id
-    WHERE grade.course_id IS NULL
+    SELECT t2.student_id FROM grade AS t2
+    WHERE t2.course_id NOT IN (
+        SELECT t1.course_id FROM grade AS t1
+        WHERE t1.student_id = 1
+    )
 ) AND student.id != 1;
 ```
 
