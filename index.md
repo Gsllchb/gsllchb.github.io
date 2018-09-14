@@ -6,6 +6,7 @@ would appreciate all positive improvements contributed by anyone.
 
 
 ## Blog
+* [Pitfalls in Java](blog/java_pitfalls.md)
 * [Pitfalls in Python](blog/python_pitfalls.md)
 * [腾讯互动娱乐、微软亚院IEG、华为优招面经](blog/腾讯互动娱乐、微软亚院IEG、华为优招面经.md)
 * [学习资料汇总](blog/学习资料汇总.md)
