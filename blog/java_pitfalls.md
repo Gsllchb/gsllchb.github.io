@@ -7,10 +7,5 @@ Mark the pitfalls I fell into while writing Java.
 ArrayList<Character> list = new ArrayList<>();
 list.add('a');
 list.remove('a');  // raise IndexOutOfBoundsException
-```
-
-```java
-ArrayList<Character> list = new ArrayList<>();
-list.add('a');
-list.remove((Character) 'a');  // correct
+list.remove((Character) 'a');  // return true
 ```
