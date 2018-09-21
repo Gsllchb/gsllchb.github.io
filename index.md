@@ -6,7 +6,7 @@ would appreciate all positive improvements contributed by anyone.
 
 
 ## Blog
-* [《延禧攻略》之袁春望身世分析](《延禧攻略》之袁春望身世分析.md)
+* [《延禧攻略》之袁春望身世分析](blog/《延禧攻略》之袁春望身世分析.md)
 * [Pitfalls in Java](blog/java_pitfalls.md)
 * [Pitfalls in Python](blog/python_pitfalls.md)
 * [腾讯互动娱乐、微软亚院IEG、华为优招面经](blog/腾讯互动娱乐、微软亚院IEG、华为优招面经.md)
