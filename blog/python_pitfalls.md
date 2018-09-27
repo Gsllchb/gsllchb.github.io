@@ -9,4 +9,4 @@ Mark the pitfalls I fell into while writing Python.
 ```
 
 ## #2
-You should add `# coding: utf-8` to the head of each Python source file, especially in production code.
+You should add `# coding: utf-8` to the head of each Python source file, especially when writing production code.
