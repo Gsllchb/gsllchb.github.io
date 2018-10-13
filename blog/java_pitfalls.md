@@ -15,3 +15,15 @@ list.remove((Character) 'a');  // return true
 assert new String("123") != new String("123");
 assert new String("123").equals(new String("123"));
 ```
+
+## #3
+```java
+int[] a = {1, 2, 3};
+int[] b = {1, 2, 3};
+
+assert !a.equals(b);
+assert java.util.Arrays.equals(a, b);
+
+assert a.hashCode() != b.hashCode();
+assert java.util.Arrays.hashCode(a) == java.util.Arrays.hashCode(b);
+```
