@@ -4,4 +4,4 @@
 
 |     微信      |    支付宝       |
 :--------------:|:---------------:
-![][wechat.png] | ![][alipay.jpg]
+![](wechat.png) | ![](alipay.jpg)
