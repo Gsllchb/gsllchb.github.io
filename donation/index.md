@@ -1,7 +1,5 @@
 # Donation
 
-卖艺不卖身o(*￣▽￣*)ブ
-
-|     微信      |    支付宝       |
+|     WeChat    |    Alipay      |
 :--------------:|:---------------:
 ![](wechat.png) | ![](alipay.jpg)
