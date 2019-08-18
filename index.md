@@ -16,10 +16,8 @@ would appreciate all positive improvements contributed by anyone.
 
 
 ## Projects
-* [littlefinger.app](https://www.littlefinger.app)
-* [DotDot: Make it easy to import the modules in parent directories](https://github.com/Gsllchb/DotDot)
-* [PyLf: A lightweight Python library for simulating Chinese handwriting](https://github.com/Gsllchb/PyLf)
-* [more...](projects/index.md)
+[![Gsllchb/Handright - GitHub](https://gh-card.dev/repos/Gsllchb/Handright.svg?fullname)](https://github.com/Gsllchb/Handright)
+[![Gsllchb/Handright - GitHub](https://gh-card.dev/repos/Gsllchb/Handright.svg?fullname)](https://github.com/Gsllchb/Handright)
 
 
 ## Contact
