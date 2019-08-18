@@ -17,7 +17,7 @@ would appreciate all positive improvements contributed by anyone.
 
 ## Projects
 [![Gsllchb/Handright - GitHub](https://gh-card.dev/repos/Gsllchb/Handright.svg?fullname)](https://github.com/Gsllchb/Handright)
-[![Gsllchb/Handright - GitHub](https://gh-card.dev/repos/Gsllchb/Handright.svg?fullname)](https://github.com/Gsllchb/Handright)
+[![Gsllchb/DotDot - GitHub](https://gh-card.dev/repos/Gsllchb/DotDot.svg?fullname)](https://github.com/Gsllchb/DotDot)
 
 
 ## Contact
