@@ -1,4 +1,5 @@
 ## Blog
+* [人生必欣赏的作品](blog/人生必欣赏的作品.md)
 * [My solution of the Google puzzle: First 10-digit prime found in consecutive digits of *e*](blog/first_10digit_prime_in_e.md)
 * [《延禧攻略》之袁春望身世分析](blog/《延禧攻略》之袁春望身世分析.md)
 * [Pitfalls in Java](blog/java_pitfalls.md)
